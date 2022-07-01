@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Implementation of CA2-SITIDIM attack."""
+"""Implementation of CA2 attack."""
 
 from __future__ import absolute_import
 from __future__ import division
