@@ -1,6 +1,6 @@
 ### Overview
 
-The code is repository for ["Cyclical Adversarial Attack Pierces Black-box Deep Neural Networks"](https://www.sciencedirect.com/science/article/pii/S0031320322003120?dgcid=coauthor) (Pattern Recognition).
+The code is repository for ["Cyclical Adversarial Attack Pierces Black-box Deep Neural Networks"](https://www.sciencedirect.com/science/article/pii/S0031320322003120) (Pattern Recognition).
 
 ### Prerequisites
 
@@ -29,3 +29,15 @@ We attack four normally trained models to generate adversarial examples, and tes
 <b>Ensemble Experiment</b>
 <img src="/figure/exp3.png" width = "700" height = "300" align=center/>
 
+### Citation
+If you find this project is useful for your research, please consider citing:
+
+	@article{huang2022cyclical,
+	  title={Cyclical adversarial attack pierces black-box deep neural networks},
+	  author={Huang, Lifeng and Wei, Shuxin and Gao, Chengying and Liu, Ning},
+	  journal={Pattern Recognition},
+	  volume={131},
+	  pages={108831},
+	  year={2022},
+	  publisher={Elsevier}
+	}
